@@ -8,3 +8,5 @@ Our Vision is to teach childen on how to become great in Life
 1. Primary 
 2. Junior Secondary
 3. Senior Secondary
+4. Nursery
+5. Pre-nusery
